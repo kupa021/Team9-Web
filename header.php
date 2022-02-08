@@ -100,11 +100,11 @@ header
         <logo>
             <img src="https://logodix.com/logo/346977.png" alt="schoollogo" width=40px height=40px>
         </logo>
-        <a href ="starlearners.html"> STAR LEARNERS PRE-SCHOOL</a>
+        <a href ="index.html"> STAR LEARNERS PRE-SCHOOL</a>
     </header>
 
     <div class="topnav" id="myTopnav">
-        <a class="active" href="starlearners.html">HOME</a>
+        <a class="active" href="index.html">HOME</a>
         <a href="enrollment.html">ENROLLMENT</a>
         <a href="#teachers">TEACHERS</a>
         <a href="#parents">PARENTS</a>
