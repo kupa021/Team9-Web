@@ -97,9 +97,10 @@ header
 </head>
   <body>
     <header>
-        <logo>
-            <img src="https://logodix.com/logo/346977.png" alt="schoollogo" width=40px height=40px>
-        </logo>
+        <a href="index.html">
+          <img src="https://logodix.com/logo/346977.png" alt="schoollogo" width=40px height=40px>
+        </a>
+
         <a href ="index.html"> STAR LEARNERS PRE-SCHOOL</a>
     </header>
 
