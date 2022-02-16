@@ -99,7 +99,7 @@ h2 {
 
 <div class="footer">
     <div id="footer"> <p></p>
-    <footer><h3><a href="/newsletterform.php">NEWSLETTER SUBSCRIPTION</a></h3>
+    <footer><h3><a href="/Team9-Web/subscriptionpage.php">NEWSLETTER SUBSCRIPTION</a></h3>
             <p>&copy; STAR LEARNERS PRE-SCHOOL, 2022</p>
         </footer>
         
