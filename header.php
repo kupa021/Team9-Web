@@ -97,31 +97,31 @@ header
 </style>
     
 </head>
-  <body>
-    <header>
-        <a href="index.html">
-          <img src="https://logodix.com/logo/346977.png" alt="schoollogo" width=40px height=40px>
-        </a>
+<body>
+  <header>
+      <a href="/Team9-Web/docs/index.html">
+        <img src="https://logodix.com/logo/346977.png" alt="schoollogo" width=40px height=40px>
+      </a>
 
-        <a href ="index.html"> STAR LEARNERS PRE-SCHOOL</a>
-    </header>
+      <a href ="/Team9-Web/docs/index.html"> STAR LEARNERS PRE-SCHOOL</a>
+  </header>
 
-    <div class="topnav" id="myTopnav">
-        <a class="active" href="index.html">HOME</a>
-        <a href="enrollment.html">ENROLLMENT</a>
-        <a href="#teachers">TEACHERS</a>
-        <a href="#parents">PARENTS</a>
-        <a href="contactus.html">CONTACT US</a>
-        <a href="#about">SEARCH</a>
-        <a href="javascript:void(0);" class="icon" onclick="myFunction()">
-            <i class="fa fa-bars"></i>
-                </a>
-            <!-- <div class="search-container">
-                <form action="/action_page.php">
-                  <input type="text" placeholder="Search..." name="search">
-                 
-                </form> -->
-    </div>
+  <div class="topnav" id="myTopnav">
+      <a class="active" href="/Team9-Web/docs/index.html">HOME</a>
+      <a href="/Team9-Web/docs/enrollment.html">ENROLLMENT</a>
+      <a href="#teachers">TEACHERS</a>
+      <a href="#parents">PARENTS</a>
+      <a href="/Team9-Web/docs/contactus.html">CONTACT US</a>
+      <a href="#search">SEARCH</a>
+      <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+          <i class="fa fa-bars"></i>
+              </a>
+          <!-- <div class="search-container">
+              <form action="/action_page.php">
+                <input type="text" placeholder="Search..." name="search">
+               
+              </form> -->
+  </div>
 
 <script>
 function myFunction() {
@@ -136,3 +136,4 @@ function myFunction() {
 
 </body>
 </html>
+

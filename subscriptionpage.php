@@ -68,9 +68,8 @@ img {
 
 <div class="container" style="background-color:white">
 
-  <h2>SUBSCRIPTION PAGE</h2>
+  <h2>WELCOME TO OUR SUBSCRIPTION PAGE</h2>
 
-        <p>Thank you for using our subscription page.</p>
         <p><strong>Tip:</strong> Subscribe or Unsubscribe to our Newsletter using the link below.</p>
 </div>
           
@@ -78,7 +77,7 @@ img {
 
         <img src="https://cdn.pixabay.com/photo/2017/08/20/09/09/continents-2660912_960_720.jpg" alt="Subscription">
      
-        <a href='https://www.google.com/'><button class="button button1">Subscribe</button></a>
+        <a href='/Team9-Web/newsletterform.php'><button class="button button1">Subscribe</button></a>
         <a href='https://www.google.com/'><button class="button button2">Unsubcribe</button></a>
 
         <script>
