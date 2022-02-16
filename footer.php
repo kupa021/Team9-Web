@@ -83,6 +83,16 @@ h2 {
 
 <body>
 
+<script src="jsdate.js"></script>
+
+<h4>Current Date and Time<h4>
+
+<button onclick = "this.innerHTML = Date()">Date and Time </button>
+
+</script>
+
+      </div>
+<br>
 <!-- <div class="footer">
   <p>Footer</p>
 </div> -->
@@ -92,6 +102,7 @@ h2 {
         <footer><h2><a href="url">NEWSLETTER SUBSCRIPTION</a></h2>
             <p>&copy; STAR LEARNERS PRE-SCHOOL, 2022</p>
         </footer>
+        
     </div>
 </div>
     <div class="icon-bar">
@@ -101,5 +112,7 @@ h2 {
     </div>
 </body>
 </html> 
+
+
 
 
