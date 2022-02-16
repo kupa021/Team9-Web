@@ -1,6 +1,6 @@
 <?php
 
-$servername = "StudentINFO";
+$servername = "db";
 $username = "root";
 $password = "password";
 $dbname = "studentsinfo";
