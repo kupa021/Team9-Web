@@ -80,15 +80,7 @@ img {
         <a href='/Team9-Web/newsletterform.php'><button class="button button1">Subscribe</button></a>
         <a href='https://www.google.com/'><button class="button button2">Unsubcribe</button></a>
 
-        <script>
-
-<script src="jsdate.js"></script>
-
-<h4>Current Date and Time<h4>
-
-<button onclick = "this.innerHTML = Date()">Date and Time </button>
-
-</script>
+        
 
       </div>
 <br>

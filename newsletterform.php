@@ -46,13 +46,13 @@ input[type=submit]:hover {
 <form method="post" action="newslettercreate.php">
   <div class="container">
     <h2>Subscribe to our Newsletter</h2>
-    <p>Lorem ipsum text about why you should subscribe to our newsletter blabla. Lorem ipsum text about why you should subscribe to our newsletter blabla.</p>
+    <p>Kindly subscribe to our Newsletter and stay up-to-date with our Programs and News.</p>
   </div>
 
   <div class="container" style="background-color:white">
     <input type="text" placeholder="First Name" name="first_name" required>
     <input type="text" placeholder="Last Name" name="last_name" required>
-    <input type="text" placeholder="Email address" name="mail" required>
+    <input type="email" placeholder="Email Address" name="email_id" required>
     
   </div>
 
