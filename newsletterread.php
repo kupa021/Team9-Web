@@ -8,7 +8,7 @@ if($result ->num_rows > 0) {
 echo "<table class=\"table\"><tr><th>First Name</th><th>Last Name</th>
 <th>Email ID</th> </tr>";
     while($row = $result ->fetch_assoc()){
-        echo "<tr><td>". "</td><td>". $row["first_name"]."</td> <td>". $row["last_name"] 
+        echo "<tr><td>". $row["first_name"]."</td> <td>". $row["last_name"] 
         ."</td><td>". $row["email_id"]
         ."</td></tr>";
     }
