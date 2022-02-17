@@ -14,7 +14,8 @@ $sql="insert into subscription_table (first_name, last_name, email_id)
 values('$first_name', '$last_name', '$email_id')";
 
 if($conn->query($sql) === TRUE) {
-    echo "Thank you for subscribing to our Newsletter";
+    echo "Thank you for subscribing to our Newsletter <br>";
+    echo  "<a href='/Team9-Web/docs/index.html'> Go back to Home </a>";
 }
 else
 {

@@ -2,7 +2,7 @@
 include "header.php";
 include 'stardbconn.php'; // establishes database connection 
 $a = $_GET['first_name'];
-$sql = "SELECT * from subscription_table WHERE id= '$first_name'" ;
+$sql = "SELECT * from subscription_table WHERE first_name= '$a'" ;
 $result = $conn->query($sql);
 ?>
 
@@ -17,14 +17,13 @@ Email:<br>
 <input type="text" name="email_id" value="<?php echo $row['email_id']; ?>">
 <br>
 <br>
-<br>
 
 <input type="submit" name="submit" value="Unsubscribe " >
 </form>
 <?php 
 
 if(isset($_POST['submit'])){
-    $query = mysqli_query($conn,"DELETE FROM studentsinfo where id='$a'");
+    $query = mysqli_query($conn,"DELETE FROM subscription_table WHERE first_name= '$a'" );
     if($query){
         echo "We are sorry to see you leave. <br>";
         echo "<a href='/Team9-Web/docs/index.html'> Go back to Home </a>";
