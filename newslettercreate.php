@@ -5,6 +5,7 @@ $first_name= $_POST['first_name']; //this stores the user inputs
 $last_name= $_POST['last_name'];
 $email_id= $_POST['email_id'];
 
+
 if (empty($_POST['first_name'])) {
     echo "<h1>Please input first_name</h1>";
 } 
