@@ -52,7 +52,7 @@ input[type=submit]:hover {
   <div class="container" style="background-color:white">
     <input type="text" placeholder="First Name" name="first_name" required>
     <input type="text" placeholder="Last Name" name="last_name" required>
-    <input type="email" placeholder="Email Address" name="email_id" required>
+    <input type="text" placeholder="Email Address" name="email_id" required>
     
   </div>
 
