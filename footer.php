@@ -58,7 +58,7 @@ a:active {
   width: 60px;
   background-color: #555;
   float: right;
-  position: fixed;
+  position: ;
   top: 50%;
   text-align: center;
 }

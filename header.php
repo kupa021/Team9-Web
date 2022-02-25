@@ -94,6 +94,24 @@ header
   }
 }
 
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  padding: 8px;
+  background-color: #464B52;
+}
+
 </style>
     
 </head>
@@ -133,7 +151,14 @@ function myFunction() {
   }
 }
 </script>
-
+<hr>
+<ul>
+  <li><a href="/Team9-Web/newsletterform.php">Subscription Form</a></li>
+  <li><a href="/Team9-Web/newsletterread.php">List of Subscribers </a></li>
+  <li><a href="#contact">Update Subscription</a></li>
+  <li><a href="#about">Unsubscribe</a></li>
+</ul>
+<hr>
 </body>
 </html>
 
