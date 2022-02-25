@@ -57,7 +57,7 @@ input[type=submit]:hover {
   </div>
 
   <div class="container">
-    <input type="submit" value="Subscribe">
+    <input type="submit" value="Sign Up">
   </div>
 </form>
 
