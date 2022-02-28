@@ -155,8 +155,8 @@ function myFunction() {
 <ul>
   <li><a href="/Team9-Web/newsletterform.php">Subscription Form</a></li>
   <li><a href="/Team9-Web/newsletterread.php">List of Subscribers </a></li>
-  <li><a href="#contact">Update Subscription</a></li>
-  <li><a href="#about">Unsubscribe</a></li>
+  <li><a href="/Team9-Web/newsletterupdate.php">Modify Subscription</a></li>
+  <li><a href="/Team9-Web/newsletterupdate.php">Unsubscribe</a></li>
 </ul>
 <hr>
 </body>

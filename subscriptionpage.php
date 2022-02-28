@@ -78,7 +78,7 @@ img {
         <img src="https://cdn.pixabay.com/photo/2017/08/20/09/09/continents-2660912_960_720.jpg" alt="Subscription">
      
         <a href='/Team9-Web/newsletterform.php'><button class="button button1">Subscribe</button></a>
-        <a href="unsubscribe.php"><button class="button button2">Unsubcribe</button></a>
+        <a href="/Team9-Web/newsletterupdate.php"><button class="button button2">Unsubcribe</button></a>
 
         
 

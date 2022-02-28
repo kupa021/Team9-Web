@@ -16,7 +16,7 @@ First Name: <br>
 Email:<br>
 <input type="text" name="email_id" value="<?php echo $row['email_id']; ?>">
 <br>
-
+<br>
 <input type="submit" name="submit" value="Unsubscribe" >
 </form>
 <?php 
