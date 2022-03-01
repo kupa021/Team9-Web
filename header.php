@@ -141,16 +141,7 @@ li a {
               </form> -->
   </div>
 
-<script>
-function myFunction() {
-  var x = document.getElementById("myTopnav");
-  if (x.className === "topnav") {
-    x.className += " responsive";
-  } else {
-    x.className = "topnav";
-  }
-}
-</script>
+
 <hr>
 <ul>
   <li><a href="/Team9-Web/newsletterform.php">Subscription Form</a></li>
