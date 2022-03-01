@@ -25,6 +25,7 @@ Email ID:<br>
 </form>
 <?php 
 if(isset($_POST['submit'])){
+    
     $first_name = $_POST['first_name'];   $last_name = $_POST['last_name']; $email_id = $_POST['email_id']; 
     $query = mysqli_query($conn,"UPDATE subscription_table set first_name='$first_name' where id='$a'");
     $query = mysqli_query($conn,"UPDATE subscription_table set last_name='$last_name' where id='$a'");

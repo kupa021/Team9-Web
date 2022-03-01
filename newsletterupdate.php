@@ -1,4 +1,5 @@
 <?php
+
 include 'stardbconn.php'; //establish db connection
 $sql = "select * from subscription_table";
 $result = $conn->query($sql);
