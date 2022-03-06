@@ -104,12 +104,12 @@ h2 {
         </footer>
         
     </div>
-</div>
+<!-- </div>
     <div class="icon-bar">
         <a href="#" class="facebook"><img src ="https://clipart.info/images/ccovers/1509135360facebook-logo-png-white.png" alt = "FBLOGO" width=30px height=30px></i></a> 
         <a href="#" class="twitter"><img src ="https://th.bing.com/th/id/R.12a13bf8fff8db22ee41790d641a3b7f?rik=9hBT88QXPPYpiA&riu=http%3a%2f%2fwww.ponto.co.za%2fsites%2fdefault%2ffiles%2ftwitter+(2).png&ehk=5401L13i6TLbORURGmJD660dOXh2OSFBlEQndYiNoyE%3d&risl=&pid=ImgRaw&r=0" alt = "TLOGO" width=30px height=30px></i></a>
         <a href="#" class="instagram"><img src ="https://th.bing.com/th/id/R.67109c570976affe32267459657b72c2?rik=g67vT2yjwpRPlw&pid=ImgRaw&r=0" alt = "IGLOGO" width=30px height=30px></i></a> 
-    </div>
+    </div> -->
 </body>
 </html> 
 
