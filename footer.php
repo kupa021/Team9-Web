@@ -99,8 +99,9 @@ h2 {
 
 <div class="footer">
     <div id="footer"> <p></p>
-    <footer><h3><a href="/Team9-Web/subscriptionpage.php">NEWSLETTER SUBSCRIPTION</a></h3>
+    <footer><h3><a href="/team9-Web/subscriptionpage.php">NEWSLETTER SUBSCRIPTION</a></h3>
             <p>&copy; STAR LEARNERS PRE-SCHOOL, 2022</p>
+            
         </footer>
         
     </div>
@@ -110,6 +111,8 @@ h2 {
         <a href="#" class="twitter"><img src ="https://th.bing.com/th/id/R.12a13bf8fff8db22ee41790d641a3b7f?rik=9hBT88QXPPYpiA&riu=http%3a%2f%2fwww.ponto.co.za%2fsites%2fdefault%2ffiles%2ftwitter+(2).png&ehk=5401L13i6TLbORURGmJD660dOXh2OSFBlEQndYiNoyE%3d&risl=&pid=ImgRaw&r=0" alt = "TLOGO" width=30px height=30px></i></a>
         <a href="#" class="instagram"><img src ="https://th.bing.com/th/id/R.67109c570976affe32267459657b72c2?rik=g67vT2yjwpRPlw&pid=ImgRaw&r=0" alt = "IGLOGO" width=30px height=30px></i></a> 
     </div> -->
+    
+
 </body>
 </html> 
 

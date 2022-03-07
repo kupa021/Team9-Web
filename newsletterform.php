@@ -43,7 +43,7 @@ input[type=submit]:hover {
 </style>
 <body>
 
-<form method="post" action="newslettercreate.php">
+<form method="post" action="/newslettercreate.php">
   <div class="container">
     <h2>Subscribe to our Newsletter</h2>
     <p>Kindly subscribe to our Newsletter and stay up-to-date with our Programs and News.</p>

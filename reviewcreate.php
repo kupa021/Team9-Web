@@ -13,7 +13,7 @@ $sql="insert into review (rating, statement)
 
 if($conn->query($sql) === TRUE) {
     echo "Thank you for reviewing us";
-    echo  "<a href='/Team9-Web/docs/index.html'> Go back to Home </a>";
+    echo  "<a href='/team9-Web/home.php'> Go back to Home </a>";
     
 }
 else

@@ -117,20 +117,21 @@ li a {
 </head>
 <body>
   <header>
-      <a href="/Team9-Web/docs/index.html">
+      <a href="/team9-Web/home.php">
         <img src="https://logodix.com/logo/346977.png" alt="schoollogo" width=40px height=40px>
       </a>
 
-      <a href ="/Team9-Web/docs/index.html"> STAR LEARNERS PRE-SCHOOL</a>
+      <a href ="/team9-Web/home.php"> STAR LEARNERS PRE-SCHOOL</a>
   </header>
 
   <div class="topnav" id="myTopnav">
-      <a class="active" href="/Team9-Web/docs/index.html">HOME</a>
-      <a href="/Team9-Web/docs/enrollment.html">ENROLLMENT</a>
+      <a class="active" href="/team9-Web/home.php">HOME</a>
+      <a href="/team9-Web/enrollment.php">ENROLLMENT</a>
       <a href="#teachers">TEACHERS</a>
       <a href="#parents">PARENTS</a>
-      <a href="/Team9-Web/docs/contactus.html">CONTACT US</a>
+      <a href="/team9-Web/contactus.php">CONTACT US</a>
       <a href="#search">SEARCH</a>
+      <button id="myBtn">Staff Login</button>
       <a href="javascript:void(0);" class="icon" onclick="myFunction()">
           <i class="fa fa-bars"></i>
               </a>
@@ -140,6 +141,14 @@ li a {
                
               </form> -->
   </div>
+
+  <script>
+document.getElementById("myBtn").addEventListener("click", myFunction);
+
+function myFunction() {
+  alert ("Contact Admin For Login Details!");
+}
+</script>
 
 
 <hr>
